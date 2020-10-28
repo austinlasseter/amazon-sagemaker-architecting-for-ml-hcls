@@ -38,3 +38,8 @@ __Deliverable:__ Demo your notebook to your colleagues!
 - Kaggle account to download data sets
 
 We will provide you an AWS account for this course. However, if you would like to bring your own dataset and use the time to build your own project, you're welcome to do that! We ask that you use your own AWS account in that case. 
+
+
+https://d30pwj968bu1nn.cloudfront.net/
+awsomeday
+csxW~4J!
